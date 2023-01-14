@@ -1,0 +1,94 @@
+/* -------------------------------------------
+            All styles are awesome
+---------------------------------------- */
+/* Global styles: */
+
+body {
+    width: 100%;
+    margin: 0 auto;
+    background: rgba(255, 144, 14, 0.1);
+    font-family: 'Work Sans', sans-serif;
+    padding: 0;
+}
+
+.button-primary {
+    margin: 30px;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 25px;
+    text-align: center;
+    background-color: #FF900E;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+
+}
+
+/* header styles: */
+
+.nav-bar {
+    margin: 50px 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-logo h2 {
+    font-size: 45px;
+    font-weight: 700;
+    padding: 0;
+    margin-top: 5px;
+}
+
+.nav-links {
+    margin-top: 0;
+    display: flex;
+    list-style: none;
+    gap: 55px;
+    color: #424242;
+    line-height: 26px;
+}
+
+.nav-links a {
+    font-size: 18px;
+    font-weight: 500;
+    color: #131313;
+    text-decoration: none;
+
+}
+
+/* -------------------------------------
+        main section styles: 
+-----------------------------------------*/
+/* Top title section */
+.top-title {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.top-title h1 {
+    font-size: 55px;
+    font-weight: 700;
+    margin: 0;
+    margin: 0 400px;
+}
+
+.top-title p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    margin: 0 250px;
+}
+/* top banner style */
+.top-banner{
+    text-align: center;
+    margin: 50px 240px 50px 200;
+}
+.img-container img{
+    height: 700px;
+    width: 1000px;
+}
+
+/* footer styles: */
